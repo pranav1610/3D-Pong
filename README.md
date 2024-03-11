@@ -11,7 +11,8 @@ Concepts of computer graphics used to simulate the 3D version of ping-pong
 - Interpolations are used to provide a smooth motion of the user controlled paddle(user interaction).
 
 ## Preview
-<img width="1080" alt="image" src="https://github.com/pranav1610/3D-Pong/assets/77756530/85a4459e-b3f2-49a4-a5b8-0c2baf91f9bd">
+<img width="1082" alt="image" src="https://github.com/pranav1610/3D-Pong/assets/77756530/16716ed8-93d8-407c-aa7d-fed9871c8bb3">
+
 
 
 
